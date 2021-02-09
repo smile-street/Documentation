@@ -5,7 +5,7 @@ A place to store and share all our project documentation
 Team commitment | Availability 
 --------------- | ------------
 Ariel | full-time |
-Pushpa | |
+Pushpa | Flexible
 Taslima | mostly flexible-If children not around |
 Viran | full-time |
 
