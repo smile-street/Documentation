@@ -30,3 +30,4 @@ Viran.Gohil.uk@gmail.com |
  - When street employees register they just need to put their employee id and all the other form input will automatically be populated.
  - Records of number of times Volunteer , volunteered for particular cause
  - Good cause have records of previous volunteers
+ - Added login / register with Facebook/Google.
